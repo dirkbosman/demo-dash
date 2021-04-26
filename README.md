@@ -1,2 +1,2 @@
 # demo-dash
-A demo of plotly dash
+A demo of plotly dash/dashboard-solution
